@@ -40,6 +40,6 @@ This portfolio highlights my projects and skills in frontend, backend, and datab
 ---
 
 ## 🌐 Connect With Me  
-- LinkedIn: [linkedin.com/in/lokeshgunti](https://www.linkedin.com/in/lokeshgunti)  
+- LinkedIn: LinkedIn: linkedin.com/in/thammanagari-lokesh](https://www.linkedin.com/in/thammanagari-lokesh)  
 - GitHub: [github.com/lokesh17T](https://github.com/lokesh17T)  
 - Email: **lokeshthammannagari@gmail.com**
